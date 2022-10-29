@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Никита Скрябин](https://up.htmlacademy.ru/htmlcss/35/user/2185121).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
